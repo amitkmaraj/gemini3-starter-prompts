@@ -1,6 +1,6 @@
 # Gemini 3 Starter Prompts
 
-![Gemini 3 Banner](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_header-dark.width-1600.format-webp.webp)
+<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/bb2c6695-97eb-4428-962a-0758b31cce4b" />
 
 Welcome to the **Gemini 3 Prompts Repository**. This collection contains a suite of "Distinguished Engineer" level prompt specifications designed to push the limits of Google's latest **Gemini 3** model.
 
