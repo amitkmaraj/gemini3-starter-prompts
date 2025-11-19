@@ -1,6 +1,6 @@
-# ♊️ Gemini 3 Prompts Repository
+# Gemini 3 Starter Prompts
 
-![Gemini 3 Banner](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_3_header_1.width-1300.jpg)
+![Gemini 3 Banner](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_header-dark.width-1600.format-webp.webp)
 
 Welcome to the **Gemini 3 Prompts Repository**. This collection contains a suite of "Distinguished Engineer" level prompt specifications designed to push the limits of Google's latest **Gemini 3** model.
 
