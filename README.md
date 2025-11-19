@@ -26,26 +26,26 @@ As announced in the [official Google Blog post](https://blog.google/products/gem
 Each file in this repository is a standalone specification for a killer app or tool.
 
 ### 🛠️ Developer Tools
-*   **[`01_deep_think_debugger.md`](./01_deep_think_debugger.md)**: A CLI tool that finds *why* code broke, not just *where*. Uses "Deep Think" to trace race conditions and logic gaps.
-*   **[`04_empathetic_ide.md`](./04_empathetic_ide.md)**: A VS Code extension that uses audio and typing patterns to detect "coding rage" and intervene with help.
-*   **[`05_autonomous_software_house.md`](./05_autonomous_software_house.md)**: A multi-agent system where an Architect, Backend Dev, and Frontend Dev build a full app from one sentence.
-*   **[`09_legacy_migrator.md`](./09_legacy_migrator.md)**: A "Code Archaeologist" that migrates legacy COBOL/Java to Rust, adding comments explaining the *history* behind the old code.
+*   **[`01_deep_think_debugger.md`](./prompts/01_deep_think_debugger.md)**: A CLI tool that finds *why* code broke, not just *where*. Uses "Deep Think" to trace race conditions and logic gaps.
+*   **[`04_empathetic_ide.md`](./prompts/04_empathetic_ide.md)**: A VS Code extension that uses audio and typing patterns to detect "coding rage" and intervene with help.
+*   **[`05_autonomous_software_house.md`](./prompts/05_autonomous_software_house.md)**: A multi-agent system where an Architect, Backend Dev, and Frontend Dev build a full app from one sentence.
+*   **[`09_legacy_migrator.md`](./prompts/09_legacy_migrator.md)**: A "Code Archaeologist" that migrates legacy COBOL/Java to Rust, adding comments explaining the *history* behind the old code.
 
 ### 🎓 Education & Knowledge
-*   **[`02_multimodal_memory_palace.md`](./02_multimodal_memory_palace.md)**: An AR web app that watches a video of your room and anchors digital notes to physical objects.
-*   **[`03_paper_to_simulation.md`](./03_paper_to_simulation.md)**: Turns static PDF research papers into interactive Streamlit dashboards with playable variables.
-*   **[`06_talking_artifacts.md`](./06_talking_artifacts.md)**: Gives museum artifacts a voice and persona (via TTS) based on visual identification.
-*   **[`10_antigravity_tutor.md`](./10_antigravity_tutor.md)**: An autonomous agent that scans your reading history, finds "knowledge gaps," and emails you custom micro-lessons.
-*   **[`12_course_creator.md`](./12_course_creator.md)**: A multi-agent architecture for generating comprehensive online courses from raw materials.
+*   **[`02_multimodal_memory_palace.md`](./prompts/02_multimodal_memory_palace.md)**: An AR web app that watches a video of your room and anchors digital notes to physical objects.
+*   **[`03_paper_to_simulation.md`](./prompts/03_paper_to_simulation.md)**: Turns static PDF research papers into interactive Streamlit dashboards with playable variables.
+*   **[`06_talking_artifacts.md`](./prompts/06_talking_artifacts.md)**: Gives museum artifacts a voice and persona (via TTS) based on visual identification.
+*   **[`10_antigravity_tutor.md`](./prompts/10_antigravity_tutor.md)**: An autonomous agent that scans your reading history, finds "knowledge gaps," and emails you custom micro-lessons.
+*   **[`12_course_creator.md`](./prompts/12_course_creator.md)**: A multi-agent architecture for generating comprehensive online courses from raw materials.
 
 ### 🎨 Creativity & Soft Skills
-*   **[`07_nuanced_negotiator.md`](./07_nuanced_negotiator.md)**: A roleplay simulator with a "Shadow Analyst" that critiques your emotional intelligence and subtext in real-time.
-*   **[`08_dream_architect.md`](./08_dream_architect.md)**: A pipeline that converts chaotic dream descriptions into cinematic movie trailers (Script -> Image -> Audio -> Video).
-*   **[`13_toronto_skyline.md`](./13_toronto_skyline.md)**: A creative prompt for generating a stylized, artistic representation of the Toronto skyline.
-*   **[`14_doodle_dodge.md`](./14_doodle_dodge.md)**: A polished, hand-drawn endless runner game ("Doodle Dodge") built with React and HTML5 Canvas.
+*   **[`07_nuanced_negotiator.md`](./prompts/07_nuanced_negotiator.md)**: A roleplay simulator with a "Shadow Analyst" that critiques your emotional intelligence and subtext in real-time.
+*   **[`08_dream_architect.md`](./prompts/08_dream_architect.md)**: A pipeline that converts chaotic dream descriptions into cinematic movie trailers (Script -> Image -> Audio -> Video).
+*   **[`13_toronto_skyline.md`](./prompts/13_toronto_skyline.md)**: A creative prompt for generating a stylized, artistic representation of the Toronto skyline.
+*   **[`14_doodle_dodge.md`](./prompts/14_doodle_dodge.md)**: A polished, hand-drawn endless runner game ("Doodle Dodge") built with React and HTML5 Canvas.
 
 ### 💰 Personal Finance
-*   **[`11_expense_tracker.md`](./11_expense_tracker.md)**: A smart expense tracker web app that categorizes transactions and provides financial insights using AI.
+*   **[`11_expense_tracker.md`](./prompts/11_expense_tracker.md)**: A smart expense tracker web app that categorizes transactions and provides financial insights using AI.
 
 ---
 
